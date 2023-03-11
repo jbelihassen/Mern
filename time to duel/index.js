@@ -32,9 +32,6 @@ class Effect extends Card{
 
 
 
-
-
-
 class Unit extends Card{
     constructor(name,cost,power,res){
         super (name,cost)
